@@ -1,0 +1,5 @@
+
+lxml
+httpx
+python-dotenv
+ddddocr
